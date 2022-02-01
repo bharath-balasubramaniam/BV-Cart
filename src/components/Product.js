@@ -94,7 +94,7 @@ const Product = ({ item }) => {
       <Title>Product: {item.title}</Title>
       <Price>
         Price :
-        <strike style={{ paddingRight: "10px" }}> {item.price * 10}₹ </strike>{" "}
+        <strike style={{ paddingRight: "10px" }}> {(item.price * (3 /10)) + item.price}₹ </strike>{" "}
         {item.price}₹
       </Price>
       <Info>
