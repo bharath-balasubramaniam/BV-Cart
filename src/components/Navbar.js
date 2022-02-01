@@ -9,6 +9,7 @@ import { useSelector } from "react-redux";
 import { Link } from "react-router-dom";
 const Container = styled.div`
   height: 60px;
+  position:"fixed";
   ${mobile({ height: "50px" })};
   ${tablet({ height: "55px" })};
 `;
