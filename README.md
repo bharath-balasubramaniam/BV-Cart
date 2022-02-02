@@ -1,3 +1,6 @@
+# For Admin Panel 
+.[for admin panel.] (https://bv-cart-admin.netlify.app/admin-login).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
