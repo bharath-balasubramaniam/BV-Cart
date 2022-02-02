@@ -1,5 +1,5 @@
 # For Admin Panel 
-.[for admin panel.] (https://bv-cart-admin.netlify.app/admin-login).
+[for admin panel.](https://bv-cart-admin.netlify.app/admin-login).
 
 # Getting Started with Create React App
 
