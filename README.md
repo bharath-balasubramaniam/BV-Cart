@@ -1,6 +1,6 @@
 # For Admin Panel 
 ### Username:  `admin`
-### Password: `123456`
+### Password: `654321`
 [for admin panel.](https://bv-cart-admin.netlify.app/admin-login).
 
 # Getting Started with Create React App
