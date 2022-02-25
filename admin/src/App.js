@@ -23,6 +23,7 @@ function App() {
       <Switch>
         <Route exact path="/admin-login">
           {admin ? <Redirect to="/" /> : <Login />}
+          <Login/>
         </Route>
         {admin && (
           <>
