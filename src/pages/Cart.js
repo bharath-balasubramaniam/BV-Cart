@@ -159,7 +159,7 @@ const Cart = () => {
       try {
         console.log(stripeToken.id, cart.total * 100);
         const res = await userRequest.post(
-          "https://bv-cart.herokuapp.com/api/checkout/payment",
+          "https://bv-cart.onrender.com/api/checkout/payment",
           {
             tokenId: stripeToken.id,
             amount: 6000,
